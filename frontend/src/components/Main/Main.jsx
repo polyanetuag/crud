@@ -5,7 +5,7 @@ import Header from '../Header/Header'
 // eslint-disable-next-line import/no-anonymous-default-export
 export default props =>
   <>
-    <Header />
+    <Header {...props}/>
     <main className="content">
       Conteúdo
     </main>
