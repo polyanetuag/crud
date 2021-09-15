@@ -2,7 +2,7 @@
 <h2 align="center">Cadastro de usuário - Create, Read, Update, Delete </h2>
 
 <div align="center">
-    <img width= '500' src="./public/aplication.gif">
+    <img width= '500' src="../crud/frontend/public/aplication.gif">
 </div>
 
 
