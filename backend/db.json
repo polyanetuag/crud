@@ -1,19 +1,34 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Julia Ferreira",
-      "email": "juferreira@hotmail.com"
-    },
-    {
       "name": "Pedro Luis",
       "email": "pluis@hotmail.com",
       "id": 3
+    },
+    {
+      "name": "Polyane Tuag",
+      "email": "pollyportugues@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "Maria Silva",
+      "email": "ms@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "Leonardo ferreira",
+      "email": "leoferreira@hotmail.com",
+      "id": 6
+    },
+    {
+      "name": "Aline Souza",
+      "email": "alinesouza@hotmail.com",
+      "id": 7
+    },
+    {
+      "name": "Arthur Barros",
+      "email": "ab@hotmail.com",
+      "id": 8
     }
   ]
 }
