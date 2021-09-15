@@ -11,7 +11,7 @@ const headerProps = {
 
 const baseUrl = 'http://localhost:3001/users'
 const initialState = {
-  user: { name: '', email: ''},
+  user: { name: '', email: '', id: ''},
   list: []
 }
 export default class UserCrud extends Component {
